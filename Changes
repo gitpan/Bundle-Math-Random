@@ -1,5 +1,8 @@
 Revision history for Perl extension Bundle::Math::Random.
 
+1.01  Sat Dec  4 00:20:13 2004
+	- Removed Math::RandomPrime
+
 1.00  Sat Apr  3 12:24:51 2004
 	- original version as uploaded to CPAN
 
