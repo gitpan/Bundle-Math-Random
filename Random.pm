@@ -2,7 +2,7 @@ package Bundle::Math::Random;
 use strict;
 use warnings;
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 1;
 
@@ -25,6 +25,8 @@ Math::Rand48
 Math::Random
 
 Math::Random::MT
+
+Math::Random::MT::Auto
 
 Math::Random::TT800
 
